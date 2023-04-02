@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Computer Vision and MLOps**
 
-- 🥅 I'm aiming to be **more familiar with Kaggle competitions**
+- 🥅 I'm aiming to be **doing more Kaggle competitions**
 
-- ⚡ Fun fact about me: **I love true crime HH**
+- ⚡ Fun fact about me: **I love true crime stories HH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
