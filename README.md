@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabrina Boumaiza</h1>
-<h3 align="center">A computer systems and networks student, as well as computer vision enthusiast.</h3>
+<h3 align="center">A Computer Systems and Networks student, as well as Computer Vision enthusiast.</h3>
 
 - 🌱 I’m currently learning **Computer Vision and MLOps**
 
